@@ -41,6 +41,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**PivotlIQ** (May 2015 to April 2016)    
+**PivotlIQ** (May 2014 to April 2016)    
 *Reporter*  
 
