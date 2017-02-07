@@ -1,6 +1,6 @@
 ## Rory Grieve
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A recent graduate of Makers Academy's full-stack 12 week web development course. I have long had an interest in technology previously covering startups for two years in my previous job as a reporter. I'm looking for a job in London.
 
 ## Skills
 
