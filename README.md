@@ -4,7 +4,7 @@ A recent graduate of Makers Academy's full-stack 12 week web development course.
 
 ## Skills
 
-#### This Skill
+Attention to detail
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -37,10 +37,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BA Ancient History
 - 2:1
 
-#### Any other qualifications
+#### Other Qualifications
+
+NCTJ Journalism
 
 ## Experience
 
 **PivotlIQ** (May 2014 to April 2016)    
 *Reporter*  
+
+## Projects
+
+Diagramming app
+http://bluprnt.herokuapp.com/index.html
 
