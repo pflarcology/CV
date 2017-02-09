@@ -46,8 +46,12 @@ NCTJ Journalism
 **PivotlIQ** (May 2014 to April 2016)    
 *Reporter*  
 
-## Projects
+## Group Projects
 
 Diagramming app
 http://bluprnt.herokuapp.com/index.html
+
+Just Jam
+https://just-jam.herokuapp.com/
+
 
