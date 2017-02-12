@@ -6,10 +6,12 @@ I am a recent graduate of Makers Academy's full-stack 12 week web development co
 
 ### Attention to detail
 
+This was an essential skill as a journalist both in my own work and when I used to edit other people's work. It's also a very important skill in programming where a typo can derail a whole app.
+
 ### Team player 
+In my old job we produced a daily newsletter which required everyone to work very closely together. I helped to iumprove communicatino within the team including getting everyone to use Slack rather than Google Hangouuts. This has served me well throught my time in Maker Academy where we used pair programming every single day. 
 
 ### Self-Starter
-
 
 
 ## Education
@@ -17,7 +19,7 @@ I am a recent graduate of Makers Academy's full-stack 12 week web development co
 #### Makers Academy (October 2016 to February 2017)
 
 - Programming principles: OOP, TDD, SOLID, MVC
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js, Angular.js, Zombie.js, Express.js
 - Rspec, Jasmine, Mocha
 - Multiple debugging excercises
 - Version Control
