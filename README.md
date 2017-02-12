@@ -17,8 +17,8 @@ In my old job we produced a daily newsletter which required everyone to work ver
 
 | Project  | Info   | Technologies  |
 | -------- |--------| ------------- |
-|[Just Jam](https://github.com/Gweaton/just-jam)| Our final group's project at Makers Academy - a web app that connects musicians looking to start a band together: http://just-jam.herokuapp.com/.| Node.js, MongoDB, Express JS. **Testing:** Mocha, Zombie JS|
-| [Instagram Clone](https://github.com/Gweaton/instagram-challenge)| A clone of Instagram built over a weekend. (Front end styling still to come!)| Ruby-on-Rails, PostgreSQL, JavaScript. **Testing**: RSpec, Capybara, PhantomJS, Poltergeist|
+|[Just Jam](https://github.com/Gweaton/just-jam)| A web app that helps people form bands by finding other musicians. Built for our final group project: http://just-jam.herokuapp.com/.| Node.js, MongoDB, Express JS. Testing: Mocha, Zombie JS|
+
 
 ## Education
 
