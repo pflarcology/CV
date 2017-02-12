@@ -1,36 +1,26 @@
 ## Rory Grieve
 
-A recent graduate of Makers Academy's full-stack 12 week web development course. I have long had an interest in technology previously covering startups for two years in my previous job as a reporter. I'm looking for a job in London.
+I am a recent graduate of Makers Academy's full-stack 12 week web development course. My interest in technology is long held and I previously worked as a reporter for two years covering startups. I am looking for a job in London with a company that's passionate about code and committed to using best practises. 
 
 ## Skills
 
-Attention to detail
+### Attention to detail
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Team player 
 
-- Experience
-- Achievements
-- Evidence
+### Self-Starter
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (October 2016 to February 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- Programming principles: OOP, TDD, SOLID, MVC
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
+- Multiple debugging excercises
+- Version Control
 
 #### University of Exeter (2009 to 2012)
 
@@ -39,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Other Qualifications
 
-NCTJ Journalism
+NCTJ Diploma in Newspaper Journalism
 
 ## Experience
 
