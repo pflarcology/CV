@@ -45,13 +45,3 @@ NCTJ Diploma in Newspaper Journalism
 
 **PivotlIQ** (May 2014 to April 2016)    
 *Reporter*  
-
-## Group Projects
-
-Diagramming app
-http://bluprnt.herokuapp.com/index.html
-
-Just Jam
-https://just-jam.herokuapp.com/
-
-
