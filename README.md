@@ -15,8 +15,8 @@ In my old job we produced a daily newsletter which required everyone to work ver
 
 | Project  | Info   | Technologies  |
 | -------- |--------| ------------- |
-|[Just Jam](https://github.com/Gweaton/just-jam)| A web app that helps people form bands by finding other musicians. Built in two weeks for our final group project at Makers Academy: http://just-jam.herokuapp.com/.| Node.js, MongoDB, Express JS. Testing: Mocha, Zombie JS|
-|[BluPrnt](https://github.com/bryonywatson1/BluPrnt2.0) | A web app that allows people to easily diagram code. A group project at Makers Academy that was completed in a week: http://bluprnt.herokuapp.com | JavaScript, JQuery. Testing: Jasmine|
+|[Just Jam](https://github.com/Gweaton/just-jam)| A web app that helps people form bands by finding other musicians. Built in two weeks by a team of four for our final group project at Makers Academy using serveral technologies no-one in the group has used before: http://just-jam.herokuapp.com/.| Node.js, MongoDB, Express JS. Testing: Mocha, Zombie JS|
+|[BluPrnt](https://github.com/bryonywatson1/BluPrnt2.0) | A web app that allows people to easily diagram code. A group project at Makers Academy that was completed in a week by a team of four: http://bluprnt.herokuapp.com | JavaScript, JQuery. Testing: Jasmine|
 
 
 ## Education
