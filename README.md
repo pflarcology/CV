@@ -13,8 +13,8 @@ In my old job we produced a daily newsletter which required everyone to work ver
 
 ### Self-Starter
 
-| Project | Description | Technologies |
-| ------- | ----------- | ------------ |
+| Project    | Description | Technologies |
+| ---------- | ----------- | ------------ |
 |[Just Jam](https://github.com/Gweaton/just-jam)| Final group project in Makers Academy. A web app that helps people form bands: http://just-jam.herokuapp.com/.| Node.js, MongoDB, Express JS. **Testing:** Mocha, Zombie JS|
 
 ## Education
