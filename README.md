@@ -6,7 +6,7 @@ I am a recent graduate of Makers Academy's full-stack 12 week web development co
 
 ### Attention to detail
 
-As a journalist attention to detail was an essential part of my job both in writing my own pieces and editing other people's work. This helps when I code, as a typo can occasionally break a whole app.
+As a journalist attention to detail was an essential part of my job both in writing my own pieces and when editing other people's work. This helps when I code, as a typo can occasionally break a whole app.
 
 ### Team player 
 In my old job we produced a daily newsletter which required everyone to work very closely together. I helped to improve communication within the team including getting everyone to use Slack rather than Google Hangouts. At Makers Academy we pair programmed every day and developed projects in small teams, which strengthened my skills as a team player.
