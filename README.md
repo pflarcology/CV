@@ -9,7 +9,7 @@ I am a recent graduate of Makers Academy's full-stack 12 week web development co
 This was an essential skill as a journalist both in my own work and when I used to edit other people's work. It's also a very important skill in programming where a typo can derail a whole app.
 
 ### Team player 
-In my old job we produced a daily newsletter which required everyone to work very closely together. I helped to iumprove communicatino within the team including getting everyone to use Slack rather than Google Hangouuts. This has served me well throught my time in Maker Academy where we used pair programming every single day. 
+In my old job we produced a daily newsletter which required everyone to work very closely together. I helped to improve communication within the team including getting everyone to use Slack rather than Google Hangouts. This has served me well throughout my time in Maker Academy where we pair programmed every day.
 
 ### Self-Starter
 - conferences, panel
@@ -18,8 +18,8 @@ In my old job we produced a daily newsletter which required everyone to work ver
 
 | Project  | Info   | Technologies  |
 | -------- |--------| ------------- |
-|[Just Jam](https://github.com/Gweaton/just-jam)| A web app that helps people form bands by finding other musicians. Built for our final group project: http://just-jam.herokuapp.com/.| Node.js, MongoDB, Express JS. Testing: Mocha, Zombie JS|
-|[BluPrnt](https://github.com/bryonywatson1/BluPrnt2.0) | A web that allows people to diagram out coding projects. a group roject at Makers Academy that was completed in a week: http://bluprnt.herokuapp.com | JavaScript, JQuery. Testing: Jasmine|
+|[Just Jam](https://github.com/Gweaton/just-jam)| A web app that helps people form bands by finding other musicians. Built in two weeks for our final group project at Makers Academy: http://just-jam.herokuapp.com/.| Node.js, MongoDB, Express JS. Testing: Mocha, Zombie JS|
+|[BluPrnt](https://github.com/bryonywatson1/BluPrnt2.0) | A web app that allows people to easily diagram code. A group project at Makers Academy that was completed in a week: http://bluprnt.herokuapp.com | JavaScript, JQuery. Testing: Jasmine|
 
 
 ## Education
@@ -29,7 +29,7 @@ In my old job we produced a daily newsletter which required everyone to work ver
 - Programming principles: OOP, TDD, SOLID, MVC
 - Ruby, Rails, Javascript, Node.js, Angular.js, Zombie.js, Express.js
 - Rspec, Jasmine, Mocha
-- Multiple debugging excercises
+- Multiple debugging exercises
 - Version Control
 
 #### University of Exeter (2009 to 2012)
