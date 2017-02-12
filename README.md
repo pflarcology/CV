@@ -12,12 +12,14 @@ This was an essential skill as a journalist both in my own work and when I used 
 In my old job we produced a daily newsletter which required everyone to work very closely together. I helped to iumprove communicatino within the team including getting everyone to use Slack rather than Google Hangouuts. This has served me well throught my time in Maker Academy where we used pair programming every single day. 
 
 ### Self-Starter
+- conferences, panel
 
 ## Projects
 
 | Project  | Info   | Technologies  |
 | -------- |--------| ------------- |
 |[Just Jam](https://github.com/Gweaton/just-jam)| A web app that helps people form bands by finding other musicians. Built for our final group project: http://just-jam.herokuapp.com/.| Node.js, MongoDB, Express JS. Testing: Mocha, Zombie JS|
+|[BluPrnt](https://github.com/bryonywatson1/BluPrnt2.0) | A web that allows people to diagram out coding projects. a group roject at Makers Academy that was completed in a week: http://bluprnt.herokuapp.com | JavaScript, JQuery. Testing: Jasmine|
 
 
 ## Education
