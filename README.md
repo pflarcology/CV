@@ -36,7 +36,7 @@ In my old job we produced a daily newsletter which required everyone to work ver
 
 #### Other Qualifications
 
-NCTJ Diploma in Newspaper Journalism
+- NCTJ Diploma in Newspaper Journalism
 
 ## Experience
 
